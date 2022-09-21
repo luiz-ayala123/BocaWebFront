@@ -40,7 +40,7 @@ class App extends Component{
           />
 
           <Busca
-            busca={this.state.busca}
+            busca={busca}
             buscaODA={this.buscaODA}
           />
 
